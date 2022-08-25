@@ -89,6 +89,20 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+.flex-container {
+  display: flex;
+  justify-content: center;
+  background-color:#1c4966;
+}
+
+.flex-container > div {
+  background-color: GRAY;
+  width: 250px;
+  margin: 10px;
+  text-align: center;
+  line-height: 250px;
+  font-size: 30px;
+}
 
 hr {
   margin: 1rem 0;
