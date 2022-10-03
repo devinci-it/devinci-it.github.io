@@ -1,0 +1,12 @@
+# davinci-it.github.io
+
+# __VINCENT S. DE TORRES__
+### __ CERTIFIED CISCO ENTERPRISE NETWORKING ASSOCIATE__
+---
+#### __OVERVIEW__
+##### This repository was created to compile courseworks and lectures that I completed while training for :
+- __CISCO 200-301 : CERTIFIED CISCO NETWORK ASSOCIATE (CCNA)__
+- __PCEP-30-0x    : CERTIFIED ENTRY LEVEL PYTHON PROGRAMMER (PCEP™)__
+
+
+> THIS GITHUB PROFILE IS A PROFESSIONAL PORTFOLIO AND SERVES AS AN ATTESTATION TO THE AUTHOR'S SKILL SET. 
